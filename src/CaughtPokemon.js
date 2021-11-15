@@ -20,4 +20,5 @@ const CaughtPokemon = (props) => {
     </>
 );
 };
+
 export default CaughtPokemon;
